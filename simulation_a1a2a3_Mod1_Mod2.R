@@ -16,7 +16,7 @@ den <- as.numeric(arg[2])
 
 print(c(nnodes, den))
 
-n <- 100 # number of runs
+n <- 1000 # number of runs
 
 b0 <- 1
 b1 <- 0.2
