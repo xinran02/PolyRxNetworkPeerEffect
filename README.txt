@@ -1,4 +1,4 @@
-This repository includes R simulation code for a manuscript prepared for submission. The scripts are simulations for network peer-effect models using directional influence matrices and an undirected influence matrix.
+This repository includes the R simulation code and the Supplementary Information for a manuscript prepared for journal submission. The scripts are simulations for network peer-effect models using directional influence matrices and an undirected influence matrix.
 
 The R scripts simulate the following scenarios:
 1) When the data is generated with directional peer-effects, and the peer-effects are estimated using directional influence matrices (when the model is correctly specified);
